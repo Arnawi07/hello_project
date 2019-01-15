@@ -1,4 +1,4 @@
 #!/bin/sh
 # Says hello
-# Author: Arnau
+# Author: Arnau<gmail>
 echo "Hello World!"
