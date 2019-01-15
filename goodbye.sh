@@ -1,3 +1,3 @@
 #!/bin/sh
-# Says good bye
+# Says good bye!
 echo "Good bye"
